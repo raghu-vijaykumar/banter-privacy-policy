@@ -26,4 +26,4 @@ The App may contain ads to support development and maintenance. However, we do n
 We may update this Privacy Policy from time to time. Any changes will be posted within the App. Your continued use of the App after such changes constitutes your acceptance of the updated policy.
 
 ## 8. Contact Us
-If you have any questions about this Privacy Policy or your interactions with the App, please contact us at [Insert Contact Email].
+If you have any questions about this Privacy Policy or your interactions with the App, please contact us at raghu.stielx@gmail.com
